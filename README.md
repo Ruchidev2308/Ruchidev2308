@@ -1,16 +1,23 @@
-## Hi there 👋
+```text
+=======================================
+         PLAYER CHARACTER SHEET        
+=======================================
 
-<!--
-**Ruchidev2308/Ruchidev2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  👤 ABOUT ME
+  [CLASS]     : Student / Front-End Dev
+  [LEVEL]     : 13
+  [GUILD]     : Self-Taught Coder
 
-Here are some ideas to get you started:
+  --- STATS & ATTRIBUTES ---
+  • INTELLECT : ████████░░ (HTML & CSS)
+  • AGILITY   : ██████░░░░ (Python Automation)
+  • GEAR      : Windows / VS Code
+  • Languages  : HTML5 • CSS3 • Python
+  
+  --- CURRENT QUESTS ---
+  • Building responsive web portfolio pages
+  • Learning back-end database integration
+  • Learning Advanced JavaScript Frameworks
+=======================================
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
