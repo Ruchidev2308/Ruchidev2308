@@ -1,7 +1,4 @@
 Hi lol
-Student | Learning C++ & Software Development
-
-I'm currently focused on building strong programming fundamentals through projects, problem-solving, and consistent practice.
 
 ### Currently learning
 
